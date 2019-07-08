@@ -1,1 +1,2 @@
 # Netflix-Recommender-Systems
+This python notebook provides an introduction to building movie recommender systems using data from the famous 2006 Netflix Prize Competition. Netflix offered a prize of one million dollars for the first algorithm that could beat its own recommendation system by 10%. The prize was finally won in 2009, by a team of researchers called “Bellkor’s Pragmatic Chaos,” after over three years of competition.
